@@ -120,3 +120,4 @@ while (aux === 0) {
 
     }
 }
+//por favor si ves una forma de optimizar el codigo hazme saber para mejorar como programador 
